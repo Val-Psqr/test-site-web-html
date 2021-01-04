@@ -1,0 +1,13 @@
+h1 {
+	font-size: 50px;
+	text-align: center;
+	color: #346CDB;
+}
+
+body {
+	font-size: 20px;
+	font-family: Helvetica, sasn-serif;
+	color: #585A52;
+	background-image: url(images/swirl_pattern.png);
+}
+
